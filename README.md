@@ -1,20 +1,20 @@
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>  
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>  
 
-<h1 align="center">💫 About Me:</h1>
-<div align ="center">
-      <h3> 🔭 I’m currently student at &ensp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" height="25px"/></a> </h3>
-      <h3> 🌱 I’m currently learning <strong>C, C++, Docker,</strong> </h3>
+<h1 align="left">💼 About Me:</h1>
+<div align ="left">
+      <h3> 🧑‍ I’m currently student at &ensp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" height="25px"/></a> </h3>
+      <h3> 💻 I’m currently learning <strong>C, C++, Docker,</strong> </h3>
       <h3> 📫 How to reach me <strong><a href="mailto:hamza.lamnaouar@outlook.fr">hamza.lamnaouar@outlook.fr</a></strong> </h3>
 </div>  
 
-<h1 align="center">🌐 Socials:</h1>
-<div align="center">
+<h1 align="left">🌐 Socials:</h1>
+<div align="left">
       <a href="https://www.linkedin.com/in/hamza-lamnaouar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="35px"></a>
 </div>  
 
-<h1 align="center">💻 Tech Stack:</h1>
-<div align="center">
+<h1 align="left">🖥️ Current Technical Skills:</h1>
+<div align="left">
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
                   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -43,10 +43,10 @@
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </div>  
 
-<h1 align="center">📊 42 Profile:</h1>
-<table align="center" border="0">
+<h1 align="left">📊 42 Profile:</h1>
+<table align="left" border="0">
       <tr width="100%">
-            <td colspan="2"  align="center">
+            <td colspan="2"  align="left">
                   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/hlamnaou?1337Badge=off&UM6P=off" alt="hlamnaou's 42 stats" /></a>
                  
             </td>
