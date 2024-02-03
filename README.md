@@ -43,7 +43,7 @@
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><br>
 </div>  
 
-<h1 align="left">📊 42 Profile:</h1>
+<h1 align="left"><a href="#"><img height="auto" src="https://icons8.com/icon/T2S0izQ5hOZF/statistics" width="40"/></a> 42 Profile:</h1>
 <table align="center" border="0">
       <tr width="100%">
             <td colspan="2"  align="left">
