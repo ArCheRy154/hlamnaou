@@ -3,19 +3,19 @@
 </div>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>  
 
-<h1 align="left"><a href="#"><img height="auto" src="https://img.icons8.com/?size=50&id=MSywwgB0nzMc&format=gif" width="40"/></a> About Me:</h1>
+<h1 align="left">💼 About Me:</h1>
 <div align ="left">
       <h3> 🧑‍ I’m currently student at &ensp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" height="25px"/></a>.</h3>
       <h3> 💻 I’m currently learning <strong>C, C++, Docker.</strong></h3>
       <h3> 📫 Contact me: <strong><a href="mailto:hamza.lamnaouar@outlook.fr">hamza.lamnaouar@outlook.fr</a></strong>.</h3>
 </div>  
 
-<h1 align="left"><a href="#"><img height="auto" src="https://img.icons8.com/?size=64&id=QcEhie5Y2ruh&format=gif" width="40"/></a> Socials:</h1>
+<h1 align="left">🌐 Socials:</h1>
 <div align="center">
       <a href="https://www.linkedin.com/in/hamza-lamnaouar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="35px"></a>
 </div>  
 
-<h1 align="left"><a href="#"><img height="auto" src="https://img.icons8.com/?size=50&id=Sg9H2YzVoVEu&format=gif" width="40"/></a> Current Technical Skills:</h1>
+<h1 align="left"><a href="#"><img height="auto" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/></a> Current Technical Skills:</h1>
 <div align="center">
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
@@ -43,7 +43,7 @@
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><br>
 </div>  
 
-<h1 align="left"><a href="#"><img height="auto" src="https://img.icons8.com/?size=50&id=T2S0izQ5hOZF&format=gif" width="40"/></a> 42 Profile:</h1>
+<h1 align="left">📊 42 Profile:</h1>
 <table align="center" border="0">
       <tr width="100%">
             <td colspan="2"  align="left">
