@@ -1,5 +1,7 @@
-
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>  
+<div align="center" >
+      <a href="#"><img height="auto" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY5OTk3MzAsIm5iZiI6MTcwNjk5OTQzMCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjAzVDIyMzAzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZTA0Y2QxZjYyZmI0MjUzN2Y1NWIyNDM5MTA4YjBlNGUzODU5ZWM1Mzk3ZTVjN2ZmODk5NjNhOTEyYTcyMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mZalLBw6MOh684XNzCHowV2sLWVA2Yosyqohiz8o3bc" width="600"/></a>
+</div>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>  
 
 <h1 align="left">💼 About Me:</h1>
 <div align ="left">
@@ -13,7 +15,7 @@
       <a href="https://www.linkedin.com/in/hamza-lamnaouar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="35px"></a>
 </div>  
 
-<h1 align="left">🖥️ Current Technical Skills:</h1>
+<h1 align="left"><a href="#"><img height="auto" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/></a> Current Technical Skills:</h1>
 <div align="left">
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
