@@ -45,7 +45,7 @@
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </div>  
 
-<h1 align="center">📊 42 Profile:</h1>
+<h1 align="left">📊 42 Profile:</h1>
 <table align="center" border="0">
       <tr width="100%">
             <td colspan="2"  align="left">
