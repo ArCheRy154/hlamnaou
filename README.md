@@ -4,7 +4,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>  
 
 <h1 align="left">💼 About Me:</h1>
-<div align ="center">
+<div align ="left">
       <h3> 🧑‍ I’m currently student at &ensp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" height="25px"/></a>.</h3>
       <h3> 💻 I’m currently learning <strong>C, C++, Docker.</strong></h3>
       <h3> 📫 Contact me: <strong><a href="mailto:hamza.lamnaouar@outlook.fr">hamza.lamnaouar@outlook.fr</a></strong>.</h3>
