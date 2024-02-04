@@ -1,7 +1,7 @@
 <div align="center" >
       <a href="#"><img height="auto" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcwMDAxMTQsIm5iZiI6MTcwNjk5OTgxNCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjAzVDIyMzY1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2OTAwNGNkZWVhZmVjNmRhODEzNzc1NDUzYmJiM2UwN2FkZWVjNDRmMWFkNGM4NzUxZjAxZTE2MmMyY2M4MDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._5NUAb_Tln31K0hpSALDZWUT9_uH7dXsHZIA_mjpSUE" width="600"/></a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archey&label=Profile%20views&color=0e75b6&style=flat" alt="archey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hlamnaou&label=Profile%20views&color=0e75b6&style=flat" alt="hlamnaou" /> </p>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>  
 
 <h1 align="left">💼 About Me:</h1>
