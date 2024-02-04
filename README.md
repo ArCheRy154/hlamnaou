@@ -5,7 +5,7 @@
 
 <h1 align="left">💼 About Me:</h1>
 <div align ="left">
-      <h3> 🧑‍ I’m currently student at <strong>42 Paris</strong>strong>.</h3>
+      <h3> 🧑‍ I’m currently student at <strong>42 Paris</strong>.</h3>
       <h3> 💻 I’m currently learning <strong>C, C++, Docker.</strong></h3>
       <h3> 📫 Contact me: <strong><a href="mailto:hamza.lamnaouar@outlook.fr">hamza.lamnaouar@outlook.fr</a></strong>.</h3>
 </div>  
