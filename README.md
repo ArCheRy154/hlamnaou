@@ -50,7 +50,7 @@
             <td colspan="2"  align="left">
                   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/hlamnaou?1337Badge=off&UM6P=off" alt="hlamnaou's 42 stats"/>
                   </a>
-                  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archey&show_icons=true&locale=en&layout=compact" alt="archey" /></p>
+                  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlamnaou&show_icons=true&locale=en&layout=compact" alt="hlamnaou" /></p>
             </td>
       </tr>
 </table>
